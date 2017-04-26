@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
+<script src="js/jquery-1.7.2.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/lightbox.js" type="text/javascript" charset="utf-8"></script>
+<style type="text/css">
+body {
+	background-color:black;
+}
+</style>
+
+<script>
+function buildImgTable(name, x){ // name is the name of the images, x is the amount of images
+	for(var i=1;i<x+1;i++) {
+		document.write('<a href="art/drawings/' +
+		name + '_' + i +
+		'.jpg" rel="lightbox[Drawsome]"><img src="art/drawings/thumbs/' +
+		name + '_' + i +
+		'.jpg" width="120" height="160" alt"Image 1"></a>')
+	}
+}
+
+window.onload=buildImgTable("drawsome",27);
+</script>
+</head>
+<body>
+	<a href="art/drawings/drawsome_1.jpg" rel="lightbox[Drawsome]"><img src="art/drawings/thumbs/drawsome_1.jpg" width="120" height="160" alt="Image 1"></a>
+	<div id="gallery"></div>
+</body>
+</html>

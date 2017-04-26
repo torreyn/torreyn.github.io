@@ -1,0 +1,666 @@
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    <channel>
+        <item>
+            <link>
+             http://www.johnlewis.com/Shops/DSShop.aspx?Id=61
+            </link>
+            <title>
+              <![CDATA[John Lewis at Home Newbury]]>
+            </title>
+            <description>
+              <![CDATA[]]>
+            </description>
+            <geo:lat>
+                51.407451
+            </geo:lat>
+            <geo:long>
+                -1.323363
+            </geo:long>
+        </item>
+        <item>
+            <link>
+             http://www.johnlewis.com/Shops/DSShop.aspx?Id=62
+            </link>
+            <title>
+              <![CDATA[John Lewis at Home Chichester]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01243 813030]]>
+            </description>
+            <geo:lat>
+                50.841774
+            </geo:lat>
+            <geo:long>
+                -0.75705
+            </geo:long>
+        </item>
+        <item>
+            <link>
+             http://www.johnlewis.com/Shops/DSShop.aspx?Id=53
+            </link>
+            <title>
+              <![CDATA[John Lewis Stratford City]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 020 8532 3500]]>
+            </description>
+            <geo:lat>
+                51.5442
+            </geo:lat>
+            <geo:long>
+                -0.009662
+            </geo:long>
+        </item>
+        <item>
+            <link>
+             http://www.johnlewis.com/Shops/DSShop.aspx?Id=23
+            </link>
+            <title>
+              <![CDATA[John Lewis Oxford Street]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 020 8532 3500]]>
+            </description>
+            <geo:lat>
+                51.516007
+            </geo:lat>
+            <geo:long>
+                -0.145232
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=1
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Aberdeen]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01224 625000]]>
+            </description>
+            <geo:lat>
+                57.1539059
+            </geo:lat>
+            <geo:long>
+                -2.1058263
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=18
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Bluewater]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01322 624123]]>
+            </description>
+            <geo:lat>
+                51.4405307
+            </geo:lat>
+            <geo:long>
+                0.2715401
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=24
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Brent Cross]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 020 8292 6535]]>
+            </description>
+            <geo:lat>
+                51.57561
+            </geo:lat>
+            <geo:long>
+                -0.2236
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=55
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Cribbs Causeway]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0117 959 1100]]>
+            </description>
+            <geo:lat>
+                51.5251586
+            </geo:lat>
+            <geo:long>
+                -2.5953568
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=12
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Cambridge]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0844 693 1709]]>
+            </description>
+            <geo:lat>
+                52.2035169
+            </geo:lat>
+            <geo:long>
+                0.1231041
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=42
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Cardiff]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 02920 536 000]]>
+            </description>
+            <geo:lat>
+                51.4794462
+            </geo:lat>
+            <geo:long>
+                -3.1763711
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=5
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Cheadle]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0161 491 4914]]>
+            </description>
+            <geo:lat>
+                53.3700154
+            </geo:lat>
+            <geo:long>
+                -2.2166851
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=2
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Edinburgh]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0131 5569121]]>
+            </description>
+            <geo:lat>
+                55.9548425
+            </geo:lat>
+            <geo:long>
+                -3.1884308
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=3
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Glasgow]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0141 353 6677]]>
+            </description>
+            <geo:lat>
+                55.8629772
+            </geo:lat>
+            <geo:long>
+                -4.2524604
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=11
+            </link>
+
+            <title>
+              <![CDATA[John Lewis High Wycombe]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01494 462666]]>
+            </description>
+            <geo:lat>
+                51.6127003
+            </geo:lat>
+            <geo:long>
+                -0.7803512
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=22
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Kingston]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 020 7547 3000]]>
+            </description>
+            <geo:lat>
+                51.4126325
+            </geo:lat>
+            <geo:long>
+                -0.3032996
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=17
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Knight & Lee]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 02392 827511]]>
+            </description>
+            <geo:lat>
+                50.7846661
+            </geo:lat>
+            <geo:long>
+                -1.0888899
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=38
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Leicester]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0116 242 5777]]>
+            </description>
+            <geo:lat>
+                52.6368794
+            </geo:lat>
+            <geo:long>
+                -1.1386286
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=6
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Liverpool]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0151 709 7070]]>
+            </description>
+            <geo:lat>
+                53.4039448
+            </geo:lat>
+            <geo:long>
+                -2.987823
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=10
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Milton Keynes]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01908 679171]]>
+            </description>
+            <geo:lat>
+                52.043107
+            </geo:lat>
+            <geo:long>
+                -0.760545
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=4
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Newcastle]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0191 232 5000]]>
+            </description>
+            <geo:lat>
+                54.9677216
+            </geo:lat>
+            <geo:long>
+                -1.6157867
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=14
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Norwhich]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0844 693 1710]]>
+            </description>
+            <geo:lat>
+                52.6242538
+            </geo:lat>
+            <geo:long>
+                1.2949497
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=8
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Nottingham]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0115 941 8282]]>
+            </description>
+            <geo:lat>
+                52.957079
+            </geo:lat>
+            <geo:long>
+                -1.1477627
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=25
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Peter Jones]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 020 7730 3434]]>
+            </description>
+            <geo:lat>
+                51.4927684
+            </geo:lat>
+            <geo:long>
+                -0.1570174
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=9
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Peterborough ]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01733 344 644]]>
+            </description>
+            <geo:lat>
+                52.5739128
+            </geo:lat>
+            <geo:long>
+                -0.2443747
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=19
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Reading]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0118 9575955]]>
+            </description>
+            <geo:lat>
+                51.455641
+            </geo:lat>
+            <geo:long>
+                -0.9728439
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=7
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Sheffield]]>
+            </title>
+            <description>
+              <![CDATA[Tel:0114 276 8511]]>
+            </description>
+            <geo:lat>
+                53.3806751
+            </geo:lat>
+            <geo:long>
+                -1.4709553
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=26
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Solihull]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0121 704 1121]]>
+            </description>
+            <geo:lat>
+                52.4124038
+            </geo:lat>
+            <geo:long>
+                -1.7793879
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=16
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Southampton]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 02380 216400]]>
+            </description>
+            <geo:lat>
+                50.9037393
+            </geo:lat>
+            <geo:long>
+                -1.405977
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=35
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Trafford]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 0161 491 4040]]>
+            </description>
+            <geo:lat>
+                53.466179
+            </geo:lat>
+            <geo:long>
+                -2.3490048
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=13
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Welwyn]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01707 323456]]>
+            </description>
+            <geo:lat>
+                51.8041877
+            </geo:lat>
+            <geo:long>
+                -0.2082257
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=21
+            </link>
+
+            <title>
+              <![CDATA[John Lewis Watford]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01923 244266]]>
+            </description>
+            <geo:lat>
+                51.6546213
+            </geo:lat>
+            <geo:long>
+                -0.3922776
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=58
+            </link>
+
+            <title>
+              <![CDATA[John Lewis at Home Swindon]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01793 733180]]>
+            </description>
+            <geo:lat>
+               51.553874
+            </geo:lat>
+            <geo:long>
+                -1.813668
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=44
+            </link>
+
+            <title>
+              <![CDATA[John Lewis at Home Croydon]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 020 8662 4730]]>
+            </description>
+            <geo:lat>
+                51.3638229
+            </geo:lat>
+            <geo:long>
+                -0.1182643
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=47
+            </link>
+
+            <title>
+              <![CDATA[John Lewis at Home Tunbridge Wells]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01322 624123]]>
+            </description>
+            <geo:lat>
+                51.1596955
+            </geo:lat>
+            <geo:long>
+                0.2955454
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              Tel: 01202 756020
+            </link>
+
+            <title>
+              <![CDATA[John Lewis at Home Poole]]>
+            </title>
+            <description>
+              <![CDATA[ PooleDorset BH12 1DN]]>
+            </description>
+            <geo:lat>
+                50.71505
+            </geo:lat>
+            <geo:long>
+                -1.987248
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=52
+            </link>
+
+            <title>
+              <![CDATA[John Lewis at Home Chester]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01244 393880]]>
+            </description>
+            <geo:lat>
+                53.1974052
+            </geo:lat>
+            <geo:long>
+                -2.9140224
+            </geo:long>
+        </item>
+        <item>
+            <link>
+              http://www.johnlewis.com/Shops/DSShop.aspx?Id=61
+            </link>
+            <title>
+              <![CDATA[John Lewis at Home Tamworth]]>
+            </title>
+            <description>
+              <![CDATA[Tel: 01827 300580]]>
+            </description>
+            <geo:lat>
+                52.626707
+            </geo:lat>
+            <geo:long>
+                -1.70533
+            </geo:long>
+        </item>
+    </channel>
+</rss>

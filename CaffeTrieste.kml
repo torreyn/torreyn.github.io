@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Caffe Trieste</name>
+  <description><![CDATA[]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Caffe Trieste</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-122.252876,37.826176,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffe Trieste Berkeley</name>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-122.289696,37.860970,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffe Trieste</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-121.886993,37.331158,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffe Trieste Monterey</name>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-121.894325,36.599644,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffe Trieste</name>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-122.407364,37.798660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffe Trieste</name>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-122.453239,37.743652,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffe Trieste</name>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-122.393234,37.752411,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cafe Trieste New Montgomery</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-122.399162,37.786495,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cafe Trieste</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-121.894371,36.599277,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

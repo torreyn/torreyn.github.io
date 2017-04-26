@@ -1,0 +1,46 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	color: white;
+	text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+	background: url(../../art/LightningBackground.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color: black;
+} img {
+	border: 0;
+} a:link {
+	color: Fuchsia;
+} a:visited {
+	color: Fuchsia;
+} a:hover {
+	color: White;
+} a:active {
+	color: HotPink;
+} #wrap {
+	width: 810px;
+	margin: auto;
+} .my-gallery {
+	font-size: 10px;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	width: 810px;
+} .my-gallery figure {
+	width: 250px;
+	margin: 10px;
+	padding: 0px;
+	float: left;
+} #foot {
+	clear: both;
+} #title {
+	width: 800px;
+	margin: auto;
+} #head {
+	width: 750px;
+	margin: auto;
+	background-color:black;
+	opacity:.6;
+	padding: 20px;
+}

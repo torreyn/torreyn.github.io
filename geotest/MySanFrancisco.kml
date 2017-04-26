@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>My San Francisco</name>
+  <description><![CDATA[Stuff in San Francisco that I've been to and I recommend.]]></description>
+  <NetworkLink>
+    <name>My San Francisco</name>
+    <Link>
+      <href>http://www.google.com/maps/ms?authuser=0&amp;vps=4&amp;ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=214191327197759596012.000443b3d50bf9b1c4fe4&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>

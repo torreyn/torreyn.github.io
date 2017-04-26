@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+font-family:Arial,Verdana,sans-serif,Helvetica;
+color:#111;
+background-color: #eee;
+text-align:center; /* IE5 workaround to center content */
+} a:link { color: #060;
+} a:visited { color: 060;
+} #wrap {
+width:500px;
+text-align:left;
+margin:auto;
+} input, textarea, select {
+background-color:#ddd;
+color:#111;
+} .center {
+text-align:center;
+} .bigName {
+font-weight:bold;
+font-size:200%;
+color:#c00;
+}

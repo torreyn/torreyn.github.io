@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://getfirebug.com/firebug-lite.js"></script>
+</head>
+<body>
+
+<h1>Learning jQuery</h1>
+<h2>Lesson 2: Selectors</h2>
+<h3>( Form Selectors )</h3>
+
+<hr/>
+
+<form id="myForm">
+	<div style="float:left;width:49%;">
+	First Name<br/>
+	<input type="text" id="firstName" name="firstName"><br/>
+	Password<br/>
+	<input type="password" id="myPassword" name="myPassword" disabled="disabled"><br/>
+	Image File<br/>
+	<input type="file" id="imgName" name="imgName"><br/>
+	<input type="image" id="btnImage" src="images.jpg" />
+	<img src="images.jpg" alt="images" width="81" height="84" /><br/>
+	<button id="myButton">buttons <span style="color:red">ALLOW</span> HTML</button><br/>
+	</div>
+	<div style="float:left;width:49%;">
+	<fieldset><legend>Radio Buttons</legend>
+		<label for="rb_1">Yes</label><input type="radio" id="rb_1" name="rb" checked="checked"><br/>
+		<label for="rb_2">No</label><input type="radio" id="rb_2" name="rb"><br/>
+	</fieldset>
+	<fieldset><legend>Checkboxes</legend>
+		<label for="cb_1">Wrapped</label><input type="checkbox" id="cb_1" name="cb" checked="checked"><br/>
+		<label for="cb_2">Card</label><input type="checkbox" id="cb_2" name="cb"><br/>	
+	</fieldset>
+	Select Element<br/>
+	<select id="mySelection" name="mySelection">
+		<option>Red</option>
+		<option selected="selected">Green</option>
+		<option>Blue</option>
+	</select><br/>
+	Email (HTML5 Inputs)<br/>
+	<input type="email" id="myEmail" name="myEmail"><br/>
+	</div>
+	<div style="clear:both;"></div>
+	<input type="reset" id="myReset"> <input type="submit" id="mySubmit"><br/>
+</form>
+<img src="jQuery_ui_logo.jpg" alt="jQuery_ui_logo" width="174" height="52" />
+
+<hr/>
+
+<a href="/learn/jQuery/">Course Main Page</a> | <a href="/learn/jQuery/lesson_2">Lesson 2</a>
+
+</body>
+</html>

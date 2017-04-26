@@ -1,0 +1,9 @@
+body { background-color: #eeeeee }
+a  { color: #111111; font-family: arial; text-decoration: none }
+a:link     { color: #006400; font-family: arial; text-decoration: underline }
+a:visited     { color: #006400; font-family: arial; text-decoration: underline }
+a:hover      { color: #008000; font-family: arial; text-decoration: blink }
+p  { color: #111111; font-family: arial; text-decoration: none }
+TD  { color: #111111; font-size: 10px; font-family: arial }
+caption { color: #111111; font-family: arial }
+div  { color: #111111; font-family: arial }

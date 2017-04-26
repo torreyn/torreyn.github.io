@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes" /> 
+<meta name="viewport" content="width=318">
+<title>10+2x5</title>
+<link rel="stylesheet" type="text/css" href="css/fixed.min.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="js/timerFunctions.min.js"></script>
+
+<!-- MuPub Ad integration goes here -->
+<script type="text/javascript"><!--
+    mopub_ad_unit = "537de0ffc8b34f17adda964b269e8b88";
+    mopub_ad_width = 320; // optional
+    mopub_ad_height = 50; // optional
+    mopub_keywords = "custom keywords"; // optional
+    //-->
+</script>
+<script type="text/javascript" src="http://ads.mopub.com/js/client/mopub.js"></script>
+<!-- end MoPub Ad integration -->
+
+</head>
+<body>
+
+
+<div id="wrap">
+
+<!-- main page -->
+<div id="main">
+	<div id="help"><img src="img/i.png"></div>
+	<div id="circleWrap">
+		<div id="start" class="circle click"><p>START</p></div>
+		<div id="stop"  class="circle"><p>STOP</p></div>
+	</div>
+	<div id="minWrap">
+		<div class="clear" id="tenWrap">
+			<div class="ten min"></div>
+			<div class="ten min"></div>
+			<div class="ten min"></div>
+			<div class="ten min"></div>
+			<div class="ten min"></div>
+		</div>
+
+		<div class="clear">
+			<div class="two min"></div>
+			<div class="two min"></div>
+			<div class="two min"></div>
+			<div class="two min"></div>
+			<div class="two min"></div>
+		</div>
+	</div>
+
+	<div id="timeBox" class="clear">
+		<div id="timeUnit"></div>
+	</div>
+</div>
+
+<!-- Help Page -->
+<div id="helpPage">
+	<div id="back"><img src="img/i.png" alt="back" /></div>
+	<p>10+2x5 works like this:</p>
+
+	<ol style="color:white">
+		<li><span class="ten">Work for 10 minutes</span></li>
+		<li><span class="two">Take a 2 minute break</span></li>
+		<li>Repeat 5 times</li>
+	</ol>
+
+	<p>You have just worked 50 productive minutes in one hour!</p>
+
+	<p>It's a produtivity hack called the:</p>
+
+	<p style="font-family:'Lucida Console', Monaco, monospace;text-align:center;">(10+2)x5 Dash</p>
+
+	<p>How this application works:</p>
+
+	<ul>
+	<li><span id="start" style="color:white">Green button</span> starts the timer</li>
+	<li><span id="stop" style="color:white">Red button</span> stops the timer</li>
+	</ul>
+
+	<p>The timer goes for 10 minutes, then a <span class="ten" style="color:white">blue rectangle</span> disappears. Then the timer goes for another 2 minutes and an <span class="two" style="color:white">orange rectangle</span> disappears. Once all rectangles have disappeared, it has been one hour. Pat yourself on the back for working so hard.</p>
+
+	<p>&nbsp;</p>
+</div>
+
+
+<div class="audio">
+	<audio id="beep1" controls>
+		<source src="snd/beep1.mp3" type="audio/mpeg">
+	</audio>
+</div>
+
+<div class="audio">
+	<audio id="beep2" controls>
+		<source src="snd/beep2.mp3" type="audio/mpeg">
+	</audio>
+</div>
+
+
+</div>
+</body>
+</html>

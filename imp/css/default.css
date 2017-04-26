@@ -1,0 +1,28 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+} body strong {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+} .light {
+	font-family: 'Raleway Dots', cursive;
+} .button {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	width: 79px;
+	height: 80px;
+	padding: 5px 9px 8px 6px;
+	border-radius: 55px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.35), 0 1px 3px rgba(0,0,0,0.18), inset 0 -3px 0 rgba(0,0,0,0.35), inset 0 14px 14px rgba(255,255,255,0.10);
+	cursor: pointer;
+	border-style: solid;
+	border-width: 6px;
+	margin: 15px;
+	border-color: #FFF;
+	display: block;
+} #blinkonBtn {
+	background-color: #7ea73f;
+} #blinkoffBtn {
+	background-color: #c90000;
+}

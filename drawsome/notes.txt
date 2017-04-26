@@ -1,0 +1,2 @@
+drawsome images processed to 640x480 JPEG
+thumbnails processed to 120x160

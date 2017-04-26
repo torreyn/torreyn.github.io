@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>My San Francisco</title>
+    <link>http://www.bing.com/maps</link>
+    <description>Stuff in San Francisco that I've been to and I recommend.</description>
+    <item>
+      <title>The OmniCircus</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Where I lived behind the theater. Crazy man Frank Garvey runs this 'Surrealist, Robotic Cabaret.'   </description>
+      <guid isPermaLink="false">c131dc22f85e6a5d</guid>
+      <pubDate />
+      <georss:point>37.779095 -122.408699</georss:point>
+    </item>
+    <item>
+      <title>Defenestration</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Installation consisting of a building with furniture that looks like it is crawling out of the windows.   </description>
+      <guid isPermaLink="false">2977a70be39407b</guid>
+      <pubDate />
+      <georss:point>37.779331 -122.407089</georss:point>
+    </item>
+    <item>
+      <title>The End Up</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Pretty much the only after hours club in San Francisco.   </description>
+      <guid isPermaLink="false">b0b6f8ee31b6b3b6</guid>
+      <pubDate />
+      <georss:point>37.777367 -122.403847</georss:point>
+    </item>
+    <item>
+      <title>Rocket Postcards pick-up</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   I used them a lot for flyers for my shows   </description>
+      <guid isPermaLink="false">d1c16e5e6e56dde6</guid>
+      <pubDate />
+      <georss:point>37.78167 -122.402718</georss:point>
+    </item>
+    <item>
+      <title>John's Grill</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>Restaurant with a Film Noir feel. They have the original Maltese Falcon on display.</description>
+      <guid isPermaLink="false">8dea75dd72fb395e</guid>
+      <pubDate />
+      <georss:point>37.785484 -122.407249</georss:point>
+    </item>
+    <item>
+      <title>IKEA Emeryville, CA</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   My first IKEA.   </description>
+      <guid isPermaLink="false">f332b3cf009e7223</guid>
+      <pubDate />
+      <georss:point>37.830421 -122.292831</georss:point>
+    </item>
+    <item>
+      <title>Specs' Twelve Adler Museum</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   My favorite bar in San Francisco. Everyone there knows my name.   </description>
+      <guid isPermaLink="false">63fac972dd2e8fdc</guid>
+      <pubDate />
+      <georss:point>37.797615 -122.405952</georss:point>
+    </item>
+    <item>
+      <title>Brewery</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>&lt;img src='http://cbk0.google.com/cbk?output=thumbnail&amp;amp'/&gt;&lt;br/&gt;   My old brewery with Jesse    &lt;br&gt;  &amp;nbsp;   </description>
+      <guid isPermaLink="false">ce5fb8ad1b3dbd5f</guid>
+      <pubDate />
+      <georss:point>38.145863 -122.252144</georss:point>
+    </item>
+    <item>
+      <title>LAX -  Los Angeles Union Station</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   LA Amtrak station. Coast Starlight Route 11 goes SF to LA, Route 14 goes LA to SF   </description>
+      <guid isPermaLink="false">257a63c5d272d667</guid>
+      <pubDate />
+      <georss:point>34.056175 -118.236778</georss:point>
+    </item>
+    <item>
+      <title>OKJ - Oakland Jack London Square Station</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Oakland Amtrak station. Coast Starlight Route 11 goes SF to LA, Route 14 goes LA to SF   </description>
+      <guid isPermaLink="false">177da253f4df76a4</guid>
+      <pubDate />
+      <georss:point>37.79388 -122.271698</georss:point>
+    </item>
+    <item>
+      <title>Harbin Hot Springs</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Relax in the clothing optional hippie heaven of healing waters.   </description>
+      <guid isPermaLink="false">324096f5e597fef4</guid>
+      <pubDate />
+      <georss:point>38.786705 -122.652931</georss:point>
+    </item>
+    <item>
+      <title>On The Mark</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   The best print shop in SF. Run by a guy named Sam Pinefold who helped us with the YLEM Journal.   </description>
+      <guid isPermaLink="false">3c9218d0ebd39f37</guid>
+      <pubDate />
+      <georss:point>37.775372 -122.409828</georss:point>
+    </item>
+    <item>
+      <title>Caffe Trieste</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   The best and first espresso bar on the west coast. Order and Africano.   </description>
+      <guid isPermaLink="false">d013959441cfcbd6</guid>
+      <pubDate />
+      <georss:point>37.79866 -122.407372</georss:point>
+    </item>
+    <item>
+      <title>Bar Basic</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Local bar near my work when I'm in town. They have mystery shots that you pick by number.   </description>
+      <guid isPermaLink="false">f64fc585704f79e1</guid>
+      <pubDate />
+      <georss:point>37.778156 -122.39695</georss:point>
+    </item>
+    <item>
+      <title>Harvey's Place</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   When I was a bike messenger, this place used to extend credit to us. I always fantasized that I would have money and roll in there and give them money to forgive other's debts. I finally got to do that, and on 11/09/12, I walked in there and   gave them $50 and asked them to apply it to anyone who still owes theml   </description>
+      <guid isPermaLink="false">58be6c362c96b929</guid>
+      <pubDate />
+      <georss:point>37.779785 -122.402992</georss:point>
+    </item>
+    <item>
+      <title>DNA Lounge</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description />
+      <guid isPermaLink="false">387ec615465e6654</guid>
+      <pubDate />
+      <georss:point>37.770988 -122.412735</georss:point>
+    </item>
+    <item>
+      <title>The Crucible</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Awesome place run by the inimitable Michael Sturtz. You must catch one of their shows, they are amazing.   </description>
+      <guid isPermaLink="false">3e127a05eb41b484</guid>
+      <pubDate />
+      <georss:point>37.804989 -122.290604</georss:point>
+    </item>
+    <item>
+      <title>Susie's house</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>1421 10th Ave #303   San Francisco, CA 94122&lt;br&gt;  &amp;nbsp;   </description>
+      <guid isPermaLink="false">6d9741a4fed5d86a</guid>
+      <pubDate />
+      <georss:point>37.761677 -122.467545</georss:point>
+    </item>
+    <item>
+      <title>Jonathan's house</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>2101 California St #1   San Francisco, CA 94115&lt;br&gt;  &amp;nbsp;   </description>
+      <guid isPermaLink="false">735d145e16cbf8a</guid>
+      <pubDate />
+      <georss:point>37.789242 -122.429054</georss:point>
+    </item>
+    <item>
+      <title>San Francisco State University</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description />
+      <guid isPermaLink="false">86330ee1161cb88f</guid>
+      <pubDate />
+      <georss:point>37.721535 -122.479256</georss:point>
+    </item>
+    <item>
+      <title>Our property</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   I think this is where it is   </description>
+      <guid isPermaLink="false">91842db70e499bb0</guid>
+      <pubDate />
+      <georss:point>40.223991 -123.916061</georss:point>
+    </item>
+    <item>
+      <title>Camp spot</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   Awesome spot I went with James once to go off-roading. Little known free area to camp with an amazing view.   </description>
+      <guid isPermaLink="false">88d9fa072b16a136</guid>
+      <pubDate />
+      <georss:point>39.829056 -123.847343</georss:point>
+    </item>
+    <item>
+      <title>Taquerias El Farolito</title>
+      <link>http://www.bing.com/maps/?mapurl=http%3a%2f%2f2re.org%2fgeotest%2fMySanFrancisco.kml</link>
+      <description>   I would eat here all the time in college. I would get one burrito and have it for tow meals on the cheap.   </description>
+      <guid isPermaLink="false">aa7b3954fe9fa1df</guid>
+      <pubDate />
+      <georss:point>37.752686 -122.418343</georss:point>
+    </item>
+  </channel>
+</rss>
